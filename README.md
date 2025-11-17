@@ -23,6 +23,7 @@ Graphics Card	Integrated (£0), Dedicated (£150), High-End (£400)
 
 Sample code: 
 
+
 Welcome to the Custom Computer Quote Generator!
 
 Please select your screen size:
@@ -57,3 +58,4 @@ Your Custom Computer Quote:
  - Storage: 1TB SSD (£120)
 TOTAL PRICE: £650
 ---
+
