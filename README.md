@@ -20,6 +20,13 @@ CPU Clock Speed	2.5GHz (£100), 3.2GHz (£200), 4.0GHz (£350)
 Storage	256GB HDD (£30), 512GB SSD (£60), 1TB SSD (£120)
 Graphics Card	Integrated (£0), Dedicated (£150), High-End (£400)
 
+Extension Task: Entering a Discount Code
+Once the user has made their selection, they should be prompted to enter a voucher code. The system currently accepts the following three voucher codes:
+
+PROMO-10 which gives a 10% discount on the total cost of the computer.
+PROMO-20 which gives a 20% discount on the total cost of the computer.
+PROMO-30 which gives a 30% discount on the total cost of the computer but is only applicable on computers costing £600 or more.
+
 
 Sample code: 
 
@@ -58,4 +65,6 @@ Your Custom Computer Quote:
  - Storage: 1TB SSD (£120)
 TOTAL PRICE: £650
 ---
+
+
 
