@@ -20,6 +20,9 @@ CPU Clock Speed	2.5GHz (£100), 3.2GHz (£200), 4.0GHz (£350)
 Storage	256GB HDD (£30), 512GB SSD (£60), 1TB SSD (£120)
 Graphics Card	Integrated (£0), Dedicated (£150), High-End (£400)
 
+
+Sample code: 
+
 Welcome to the Custom Computer Quote Generator!
 
 Please select your screen size:
